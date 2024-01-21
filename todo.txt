@@ -6,3 +6,5 @@ A file in the staged state means it is ready to be committed. In this state, all
 
 Committed state
 A file is in the committed state when all the changes made to the file have been saved in the local repo. Files in the committed stage are files ready to be pushed to the remote repo (on GitHub).
+
+a new track is here. 
